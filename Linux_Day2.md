@@ -1,3 +1,5 @@
+ # DAY 2 
+
 **Q1. What is absolute path and relative path?**
 Ans. 
 *Absolute path*: It is defined as specifying the location of a file or directory from the root directory (/).   It is a complete path of a file from the start. E.g., cat /home/sub-dir/file.txt
