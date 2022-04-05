@@ -4,8 +4,11 @@
 
 Ans. 
 *Memory management*: Keep track of how much memory is used to store what, and where
+
 *Process management*: Determine which processes can use the central processing unit (CPU), when, and for how long
+
 *Device drivers*: Act as mediator/interpreter between the hardware and processes
+
 *System calls and security*: Receive requests for service from the processes
 
 **Ques. DIFFERENCE b/w LInux, unix and Windows?**
